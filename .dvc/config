@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = /home/joey/Documents/KAIM/end-to-end-Insurance-Risk-Analytics-Predictive-Modeling-week3/dvc_storage
