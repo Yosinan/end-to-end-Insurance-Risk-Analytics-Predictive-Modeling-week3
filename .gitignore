@@ -53,6 +53,8 @@ data/processed/*.parquet
 # DVC
 .dvc/cache/
 .dvc/tmp/
+# Note: .dvc/config should be tracked in git
+# Note: .dvc files (e.g., data/raw/*.csv.dvc) should be tracked in git
 dvc_storage/
 
 # Model artifacts
