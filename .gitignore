@@ -53,6 +53,7 @@ data/processed/*.parquet
 # DVC
 .dvc/cache/
 .dvc/tmp/
+dvc_storage/
 
 # Model artifacts
 models/
